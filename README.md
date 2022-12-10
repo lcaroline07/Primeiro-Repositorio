@@ -5,4 +5,4 @@
 
 
 ## Acrescentando um link
-[LinkedIn] (https://www.linkedin.com/in/luana-pereira07/)
+[Meu LinkedIn] (https://www.linkedin.com/in/luana-pereira07/)
