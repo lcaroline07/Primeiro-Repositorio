@@ -3,3 +3,6 @@
 
  Aprendendo a criar meu primeiro repositóriono GitHub Desktop.
 
+
+## Acrescentando um link
+[LinkedIn] (https://www.linkedin.com/in/luana-pereira07/)
